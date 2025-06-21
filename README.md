@@ -10,7 +10,7 @@ This thesis aims to explore and compare traditional image processing and compute
 
 ---
 
-### ✅ What's Been Done
+### 📋 What's Been Done
 
 - ✅ Rewritten all logic and code in Python
 - ✅ Integrated **working** contour segmentation with interactive parameter tuning
