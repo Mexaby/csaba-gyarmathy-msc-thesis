@@ -6,7 +6,7 @@
 
 ### Abstract
 
-This thesis explores and compares traditional image processing and computer vision (IPCV) techniques with modern AI/ML-based methods for object contour extraction and G-code generation. Building on the foundation laid in my bachelor's project, the goal is to evaluate the strengths and limitations of both approaches and identify how AI can enhance the automation pipeline for CNC-related tasks.
+This thesis aims to explore and compare traditional image processing and computer vision (IPCV) techniques with modern AI/ML-based methods for object contour extraction and G-code generation. The goal is to evaluate the strengths and limitations of both approaches and identify how AI can enhance the automation pipeline for CNC-related tasks. The project is based on my bachelor's thesis.
 
 ---
 
